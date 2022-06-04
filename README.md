@@ -1,5 +1,7 @@
 # News Portal Project
 
+## Website Url - https://newsprotalbd.000webhostapp.com
+
 ## Developer - Bidhan Chandra Nath
 
 ## Main features of this project.
