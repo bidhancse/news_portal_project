@@ -1,4 +1,4 @@
-## News Portal Project
+# News Portal Project
 
 ## Developer - Bidhan Chandra Nath
 
